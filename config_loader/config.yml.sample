@@ -1,6 +1,5 @@
 ---
 base: &base
-	SESSION_SECRET: d9089df0613776e826fa25aad6632066347d6fde6d3abd22af7ffbc26df4b5026e57d36bc9a698g8
   SOME_ENV: some value
 
 development:
