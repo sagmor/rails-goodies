@@ -1,0 +1,12 @@
+---
+base: &base
+  SOME_ENV: some value
+
+development:
+  <<: *base
+
+test:
+  <<: *base
+
+production:
+  <<: *base
