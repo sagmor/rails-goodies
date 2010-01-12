@@ -5,6 +5,8 @@ Content
 
 * _config_loader_: Load the content of RAILS_ROOT/config/config.yml if exists into the ENV global variable.
 
+* _templates_: My Rails templates to create new projects using these goodies
+
 
 License
 =======

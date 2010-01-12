@@ -1,0 +1,16 @@
+# Generic Files
+.DS_Store
+Thumbs.db
+.*~
+
+# Database Files
+db/*.sqlite3
+
+# Log Files
+log/**
+
+# Temporal Files
+tmp/**
+
+# Sensible configuration files
+config/database.yml
